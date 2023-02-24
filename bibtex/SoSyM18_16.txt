@@ -1,0 +1,19 @@
+@Article{OakesTLW2018,
+author="Oakes, Bentley James
+and Troya, Javier
+and L{\'u}cio, Levi
+and Wimmer, Manuel",
+title="Full contract verification for ATL using symbolic execution",
+journal="Software {\&} Systems Modeling",
+year="2018",
+month="Jul",
+day="01",
+volume="17",
+number="3",
+pages="815--849",
+abstract="The Atlas Transformation Language (ATL) is currently one of the most used model transformation languages and has become a de facto standard in model-driven engineering for implementing model transformations. At the same time, it is understood by the community that enhancing methods for exhaustively verifying such transformations allows for a more widespread adoption of model-driven engineering in industry. A variety of proposals for the verification of ATL transformations have arisen in the past few years. However, the majority of these techniques are either based on non-exhaustive testing or on proof methods that require human assistance and/or are not complete. In this paper, we describe our method for statically verifying the declarative subset of ATL model transformations. This verification is performed by translating the transformation (including features like filters, OCL expressions, and lazy rules) into our model transformation language DSLTrans. As we handle only the declarative portion of ATL, and DSLTrans is Turing-incomplete, this reduction in expressivity allows us to use a symbolic-execution approach to generate representations of all possible input models to the transformation. We then verify pre-/post-condition contracts on these representations, which in turn verifies the transformation itself. The technique we present in this paper is exhaustive for the subset of declarative ATL model transformations. This means that if the prover indicates a contract holds on a transformation, then the contract's pre-/post-condition pair will be true for any input model for that transformation. We demonstrate and explore the applicability of our technique by studying several relatively large and complex ATL model transformations, including a model transformation developed in collaboration with our industrial partner. As well, we present our `slicing' technique. This technique selects only those rules in the DSLTrans transformation needed for contract proof, thereby reducing proving time.",
+issn="1619-1374",
+doi="10.1007/s10270-016-0548-7",
+url="https://doi.org/10.1007/s10270-016-0548-7"
+}
+

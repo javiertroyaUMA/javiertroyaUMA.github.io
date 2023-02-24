@@ -1,0 +1,11 @@
+@inproceedings{1699473,
+ author = {Yussof, Salman and See, Ong Hang},
+ title = {Link utilization of GA-based QoS routing algorithm},
+ booktitle = {ICOIN'09: Proceedings of the 23rd international conference on Information Networking},
+ year = {2009},
+ isbn = {978-1-4244-4526-4},
+ pages = {356--358},
+ location = {Chiang Mai, Thailand},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+ }

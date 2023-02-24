@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7107455, 
+author={Troya, Javier and Bergmayr, Alexander and Burgueno, Loli and Wimmer, Manuel}, 
+booktitle={Software Testing, Verification and Validation Workshops (ICSTW), 2015 IEEE Eighth International Conference on}, 
+title={Towards systematic mutations for and with ATL model transformations}, 
+year={2015}, 
+month={April}, 
+pages={1-10}, 
+keywords={Analytical models;Automation;Computational efficiency;Computational modeling;Matched filters;Software;Testing;ATL;HigherOrder Transformations;Model Transformations;Mutation}, 
+doi={10.1109/ICSTW.2015.7107455},}

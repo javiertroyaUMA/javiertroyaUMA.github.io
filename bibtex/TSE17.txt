@@ -1,0 +1,12 @@
+@ARTICLE{FleckTKWB17,
+author={M. Fleck and J. Troya and M. Kessentini and M. Wimmer and B. Alkhazi}, 
+journal={IEEE Transactions on Software Engineering}, 
+title={Model Transformation Modularization as a Many-Objective Optimization Problem}, 
+year={2017}, 
+volume={43}, 
+number={11}, 
+pages={1009-1032}, 
+keywords={Adaptation models;Algorithm design and analysis;Computer bugs;Measurement;Object oriented modeling;Software engineering;Unified modeling language;ATL;MDE;Model transformation;NSGA-III;SBSE;modularization}, 
+doi={10.1109/TSE.2017.2654255}, 
+ISSN={0098-5589}, 
+month={Nov},}

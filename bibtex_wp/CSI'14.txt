@@ -1,0 +1,12 @@
+﻿@article{TroyaCSI14,
+title = "Specification and simulation of queuing network models using Domain-Specific Languages",
+journal = "Computer Standards & Intefaces",
+volume = "36",
+number = "5",
+pages = "863 - 879",
+year = "2014",
+issn = "0920-5489",
+doi = "10.1016/j.csi.2014.01.002",
+url = "http://www.sciencedirect.com/science/article/pii/S092054891400004X",
+author = "Javier Troya and Antonio Vallecillo"
+}

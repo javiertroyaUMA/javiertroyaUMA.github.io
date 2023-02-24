@@ -1,0 +1,14 @@
+@Article{TroyaMBV21,
+author="Troya, Javier
+and Moreno, Nathalie
+and Bertoa, Manuel F.
+and Vallecillo, Antonio",
+title="Uncertainty representation in software models: a survey",
+journal="Software {\&} Systems Modeling",
+year="2021",
+month="",
+volume="20",
+pages="1183--1213",
+doi="10.1007/s10270-020-00842-1"
+}
+

@@ -1,0 +1,13 @@
+@Article{BarqueroTV2021,
+author="Barquero, Gala
+and Troya, Javier
+and Vallecillo, Antonio",
+title="Improving query performance on dynamic graphs",
+journal="Software {\&} Systems Modeling",
+year="2021",
+month="",
+volume="20",
+pages="1011--1041",
+doi="10.1007/s10270-020-00832-3"
+}
+

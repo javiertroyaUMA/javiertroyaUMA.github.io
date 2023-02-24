@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3550355.3552438,
+author = {C\'{a}mara, Javier and Calinescu, Radu and Cheng, Betty H. C. and Garlan, David and Schmerl, Bradley and Troya, Javier and Vallecillo, Antonio},
+title = {Addressing the Uncertainty Interaction Problem in Software-Intensive Systems: Challenges and Desiderata},
+year = {2022},
+isbn = {9781450394666},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3550355.3552438},
+doi = {10.1145/3550355.3552438},
+abstract = {Software-intensive systems are increasingly used to support tasks that are typically characterized by high degrees of uncertainty. The modeling notations employed to design, verify, and operate such systems have increasingly started to capture different types of uncertainty, so that they can be explicitly considered when systems are developed and deployed. While these modeling paradigms consider different sources of uncertainty individually, these sources are rarely independent, and their interactions affect the achievement of system goals in subtle and often unpredictable ways. This vision paper describes the problem of uncertainty interaction in software-intensive systems, illustrating it on examples from relevant application domains. We then identify key open challenges and define desiderata that future modeling notations and model-driven engineering research should consider to address these challenges.},
+booktitle = {Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems},
+pages = {24–30},
+numpages = {7},
+keywords = {patterns, modeling notations, uncertainty interaction},
+location = {Montreal, Quebec, Canada},
+series = {MODELS '22}
+}

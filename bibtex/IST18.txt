@@ -1,0 +1,12 @@
+@article{SEGURA20181,
+title = "Performance metamorphic testing: A Proof of concept",
+journal = "Information and Software Technology",
+volume = "98",
+pages = "1 - 4",
+year = "2018",
+issn = "0950-5849",
+doi = "https://doi.org/10.1016/j.infsof.2018.01.013",
+url = "http://www.sciencedirect.com/science/article/pii/S095058491830017X",
+author = "Sergio Segura and Javier Troya and Amador Durán and Antonio Ruiz-Cortés",
+keywords = "Metamorphic testing, Performance testing, Search–based testing"
+}

@@ -1,0 +1,12 @@
+@ARTICLE{8074764, 
+author={S. {Segura} and J. A. {Parejo} and J. {Troya} and A. {Ruiz-Cortés}}, 
+journal={IEEE Transactions on Software Engineering}, 
+title={Metamorphic Testing of RESTful Web APIs}, 
+year={2018}, 
+volume={44}, 
+number={11}, 
+pages={1083-1099}, 
+keywords={application program interfaces;hypermedia;program testing;social networking (online);transport protocols;Web services;metamorphic relation output pattern;web application programming interfaces;RESTful web API;REST architectural style;HTTP interaction;oracle problem;abstract relation;MROP;YouTube;Spotify;Testing;YouTube;Web services;Companies;Standards;Manuals;Indexes;Metamorphic testing;REST;RESTful Web services;web API}, 
+doi={10.1109/TSE.2017.2764464}, 
+ISSN={0098-5589}, 
+month={Nov},}

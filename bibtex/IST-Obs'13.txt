@@ -1,0 +1,16 @@
+@article{Troya201388,
+title = "Model-driven performance analysis of rule-based domain specific visual models",
+journal = "Information and Software Technology",
+volume = "55",
+number = "1",
+pages = "88 - 110",
+year = "2013",
+issn = "0950-5849",
+doi = "10.1016/j.infsof.2012.07.009",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584912001358",
+author = "Javier Troya and Antonio Vallecillo and Francisco Durán and Steffen Zschaler",
+keywords = "Model-driven engineering",
+keywords = "Domain specific visual languages",
+keywords = "Performance analysis",
+keywords = "Simulation"
+}

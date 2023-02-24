@@ -1,0 +1,23 @@
+@Article{CamaraTVBCCGS2022,
+author={C{\'a}mara, Javier
+and Troya, Javier
+and Vallecillo, Antonio
+and Bencomo, Nelly
+and Calinescu, Radu
+and Cheng, Betty H. C.
+and Garlan, David
+and Schmerl, Bradley},
+title={The uncertainty interaction problem in self-adaptive systems},
+journal={Software and Systems Modeling},
+year={2022},
+month={Aug},
+day={01},
+volume={21},
+number={4},
+pages={1277-1294},
+abstract={The problem of mitigating uncertainty in self-adaptation has driven much of the research proposed in the area of software engineering for self-adaptive systems in the last decade. Although many solutions have already been proposed, most of them tend to tackle specific types, sources, and dimensions of uncertainty (e.g., in goals, resources, adaptation functions) in isolation. A special concern are the aspects associated with uncertainty modeling in an integrated fashion. Different uncertainties are rarely independent and often compound, affecting the satisfaction of goals and other system properties in subtle and often unpredictable ways. Hence, there is still limited understanding about the specific ways in which uncertainties from various sources interact and ultimately affect the properties of self-adaptive, software-intensive systems. In this SoSym expert voice, we introduce the Uncertainty Interaction Problem as a way to better qualify the scope of the challenges with respect to representing different types of uncertainty while capturing their interaction in models employed to reason about self-adaptation. We contribute a characterization of the problem and discuss its relevance in the context of case studies taken from two representative application domains. We posit that the Uncertainty Interaction Problem should drive future research in software engineering for autonomous and self-adaptive systems, and therefore, contribute to evolving uncertainty modeling towards holistic approaches that would enable the construction of more resilient self-adaptive systems.},
+issn={1619-1374},
+doi={10.1007/s10270-022-01037-6},
+url={https://doi.org/10.1007/s10270-022-01037-6}
+}
+

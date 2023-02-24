@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3550356.3563135,
+author = {Mu\~{n}oz, Paula and Wimmer, Manuel and Troya, Javier and Vallecillo, Antonio},
+title = {Using Trace Alignments for Measuring the Similarity between a Physical and Its Digital Twin},
+year = {2022},
+isbn = {9781450394673},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3550356.3563135},
+doi = {10.1145/3550356.3563135},
+abstract = {A common problem in the development of digital twin systems is the validation that the behavior of both twins, the physical and the digital, is the same, or at least similar enough given the requirements of the digital twin system. In this paper, we propose a method for the alignment of the traces of both twins. Traces are sequences of snapshots that capture the progressive states of each entity. Our approach is based on a bioinformatic algorithm that we adapt and use for the alignment of snapshots. Additionally, we include a set of measures to evaluate the quality of these alignments and reason about the level of fidelity of the digital twin system. Two case studies are used to demonstrate our proposal and evaluate its accuracy and effectiveness.},
+booktitle = {Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings},
+pages = {503–510},
+numpages = {8},
+keywords = {trace alignment, trace analysis, conformance testing, digital twins},
+location = {Montreal, Quebec, Canada},
+series = {MODELS '22}
+}

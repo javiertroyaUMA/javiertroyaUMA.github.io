@@ -1,0 +1,26 @@
+@inproceedings{DBLP:conf/icmt/TroyaV10,
+  author    = {Javier Troya and
+               Antonio Vallecillo},
+  title     = {Towards a Rewriting Logic Semantics for ATL},
+  booktitle = {ICMT},
+  year      = {2010},
+  pages     = {230-244},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-13688-7_16},
+  crossref  = {DBLP:conf/icmt/2010},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/icmt/2010,
+  editor    = {Laurence Tratt and
+               Martin Gogolla},
+  title     = {Theory and Practice of Model Transformations, Third International
+               Conference, ICMT 2010, Malaga, Spain, June 28-July 2, 2010.
+               Proceedings},
+  booktitle = {ICMT},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6142},
+  year      = {2010},
+  isbn      = {978-3-642-13687-0},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-13688-7},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

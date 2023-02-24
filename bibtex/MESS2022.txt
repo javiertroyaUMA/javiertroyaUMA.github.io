@@ -1,0 +1,8 @@
+@INPROCEEDINGS{PPMTV22,
+  author={Pérez-Porras, Daniel and Muñoz, Paula and Troya, Javier and Vallecillo, Antonio},
+  booktitle={2nd International workshop on MDE for Smart IoT Systems (MESS 2022)}, 
+  title={Key-Value vs Graph-based data lakes for realizing Digital Twin systems}, 
+  year={2022},
+  volume={},
+  number={},
+}

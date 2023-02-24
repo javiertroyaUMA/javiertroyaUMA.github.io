@@ -1,0 +1,16 @@
+@article{DBLP:journals/comcom/XingLJBJ09,
+  author    = {Huanlai Xing and
+               Xin Liu and
+               Xing Jin and
+               Lin Bai and
+               Yuefeng Ji},
+  title     = {A multi-granularity evolution based Quantum Genetic Algorithm
+               for QoS multicast routing problem in WDM networks},
+  journal   = {Computer Communications},
+  volume    = {32},
+  number    = {2},
+  year      = {2009},
+  pages     = {386-393},
+  ee        = {http://dx.doi.org/10.1016/j.comcom.2008.11.009},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

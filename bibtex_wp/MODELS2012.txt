@@ -1,0 +1,31 @@
+@inproceedings{DBLP:conf/models/BrancoTCKV12,
+  author    = {Mois{\'e}s Castelo Branco and
+               Javier Troya and
+               Krzysztof Czarnecki and
+               Jochen Malte K{\"u}ster and
+               Hagen V{\"o}lzer},
+  title     = {Matching Business Process Workflows across Abstraction Levels},
+  booktitle = {MoDELS},
+  year      = {2012},
+  pages     = {626-641},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-33666-9_40},
+  crossref  = {DBLP:conf/models/2012},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/models/2012,
+  editor    = {Robert B. France and
+               J{\"u}rgen Kazmeier and
+               Ruth Breu and
+               Colin Atkinson},
+  title     = {Model Driven Engineering Languages and Systems - 15th International
+               Conference, MODELS 2012, Innsbruck, Austria, September 30-October
+               5, 2012. Proceedings},
+  booktitle = {MoDELS},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7590},
+  year      = {2012},
+  isbn      = {978-3-642-33665-2},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-33666-9},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

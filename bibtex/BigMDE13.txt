@@ -1,0 +1,9 @@
+@inproceedings{TUW-218311,
+    author = {Burgue{\~n}o, Loli and Troya, Javier and Wimmer, Manuel and Vallecillo, Antonio},
+    title = {On the Concurrent Execution of Model Transformations with Linda},
+    booktitle = {Proceedings of the 1st International Workshop on Big MDE @ STAF'2013},
+    year = {2013},
+    numpages = {10},
+    url = {http://www.big-mde.eu/},
+    note = {Vortrag: 1st International Workshop on Big MDE @ STAF'2013, Budapest, Hungary; 2013-06-17}
+}

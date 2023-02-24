@@ -1,0 +1,20 @@
+@Article{Bill2019,
+author="Bill, Robert
+and Fleck, Martin
+and Troya, Javier
+and Mayerhofer, Tanja
+and Wimmer, Manuel",
+title="A local and global tour on MOMoT",
+journal="Software {\&} Systems Modeling",
+year="2019",
+month="Apr",
+day="01",
+volume="18",
+number="2",
+pages="1017--1046",
+abstract="Many model transformation scenarios require flexible execution strategies as they should produce models with the highest possible quality. At the same time, transformation problems often span a very large search space with respect to possible transformation results. Recently, different proposals for finding good transformation results without enumerating the complete search space have been proposed by using meta-heuristic search algorithms. However, determining the impact of the different kinds of search algorithms, such as local search or global search, on the transformation results is still an open research topic. In this paper, we present an extension to MOMoT, which is a search-based model transformation tool, for supporting not only global searchers for model transformation orchestrations, but also local ones. This leads to a model transformation framework that allows as the first of its kind multi-objective local and global search. By this, the advantages and disadvantages of global and local search for model transformation orchestration can be evaluated. This is done in a case-study-based evaluation, which compares different performance aspects of the local- and global-search algorithms available in MOMoT. Several interesting conclusions have been drawn from the evaluation: (1) local-search algorithms perform reasonable well with respect to both the search exploration and the execution time for small input models, (2) for bigger input models, their execution time can be similar to those of global-search algorithms, but global-search algorithms tend to outperform local-search algorithms in terms of search exploration, (3) evolutionary algorithms show limitations in situations where single changes of the solution can have a significant impact on the solution's fitness.",
+issn="1619-1374",
+doi="10.1007/s10270-017-0644-3",
+url="https://doi.org/10.1007/s10270-017-0644-3"
+}
+

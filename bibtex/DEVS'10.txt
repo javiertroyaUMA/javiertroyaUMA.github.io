@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/springsim/TroyaRV10,
+  author    = {Javier Troya and
+               Jos{\'e} Eduardo Rivera and
+               Antonio Vallecillo},
+  title     = {Simulating domain specific visual models by observation},
+  booktitle = {SpringSim},
+  year      = {2010},
+  pages     = {128},
+  ee        = {http://doi.acm.org/10.1145/1878537.1878671},
+  crossref  = {DBLP:conf/springsim/2010},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/springsim/2010,
+  editor    = {Robert M. McGraw and
+               Eric S. Imsand and
+               Michael J. Chinni},
+  title     = {Proceedings of the 2010 Spring Simulation Multiconference,
+               SpringSim 2010, Orlando, Florida, USA, April 11-15, 2010},
+  booktitle = {SpringSim},
+  publisher = {SCS/ACM},
+  year      = {2010},
+  isbn      = {978-1-4503-0069-8},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

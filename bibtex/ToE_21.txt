@@ -1,0 +1,9 @@
+@ARTICLE{TroyaPSGMR21,
+  author={J. {Troya} and J. A. {Parejo} and S. {Segura} and A. {Gámez-Díaz} and A. E. {Márquez-Chamorro} and A. {del-Río-Ortega}},
+  journal={IEEE Transactions on Education}, 
+  title={Flipping Laboratory Sessions in a Computer Science Course: An Experience Report}, 
+  year={2021},
+  volume={64},
+  number={2},
+  pages={139-146}
+}

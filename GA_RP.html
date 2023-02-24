@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
+<title>Genetic Algorithms applied to Routing Protocols</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+		    <table width="100%">
+		        <tr>
+		            <td>
+		                <a href="http://www.lcc.uma.es"><img src="images/logo_dpto.gif" border="0" width="200" /></a>
+		            </td>
+		            <td>
+		                <img src="images/javier_name.gif" width="500" />
+		            </td>
+		            <td>
+		                <a href="http://www.uma.es"><img src="images/logo_uma.gif" border="0" width="150"/></a>
+		            </td>
+		        </tr>
+		    </table>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<!-- <ul>
+			<li><a href="index.html">Home</a></li>
+			<li class="current_page_item"><a href="publications.html">Publications</a></li>
+		</ul> -->
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content_GA_RP">
+			<div class="post">
+				<h2 class="title">Genetic Algorithms applied to Routing Protocols - State of the art 2008 and 2009</a></h2>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+				<p> The work presented here tries to cover a part of the state of the art related to the application of Genetic Algorithms 
+					to the problem of Routing Protocols in different networks between 2008 and 2010. First of all, let us introduce the concepts 
+					of “genetic algorithms” and “routing protocols”.
+		 		</p>
+				<h1 class="title">Genetic Algorithms</a></h1>
+				<p> Genetic algorithms were formally introduced in the United States by <a href="http://en.wikipedia.org/wiki/John_Henry_Holland">John Holland</a> at the University of Michigan, in the 1970s. The continuing 
+					price/performance improvements of computational systems have made them attractive for some types of optimization. In particular, 
+					genetic algorithms work very well on mixed (continuous and discrete) combinatorial problems. They are less susceptible to get 
+					'stuck' at local optima than gradient search methods. But they tend to be computationally expensive. 				
+				</p>
+				<p> To use a genetic algorithm, the solution to a problem must be represented as a <a href="http://en.wikipedia.org/wiki/Chromosome_%28genetic_algorithm%29">chromosome</a>. The genetic algorithm then creates 
+					a population of solutions and applies genetic operators such as <a href="http://en.wikipedia.org/wiki/Mutation_%28genetic_algorithm%29">mutation</a>
+					 and <a href="http://en.wikipedia.org/wiki/Crossover_%28genetic_algorithm%29">crossover</a> to evolve the solutions in order to find the best one(s). 
+				</p>
+				<p> The three most important aspects of using genetic algorithms are: (1) definition of the objective function, (2) definition and implementation 
+					of the genetic representation, and (3) definition and implementation of the genetic operators. Once these three have been defined, 
+					the generic genetic algorithm should work fairly well. Appart from this, many different variations can be defined in order to improve performance, 
+					find multiple optima, or parallelize the algorithms. 
+				</p>
+				<p> <b>Some references:</b>
+					<ul>
+						<li><a href="http://en.wikipedia.org/wiki/Genetic_algorithm">Genetic algorithms, Wikipedia</a> </li>
+						<li><a href="http://www.lcc.uma.es/~eat/services/nag2.html">Genetic algorithms in the world</a> </li>
+						<li><a href="http://www.obitko.com/tutorials/genetic-algorithms/">Introduction to GA. Tutorial with interactive Java Applets</a> </li>
+						<li>Among the most important conferences in this field we have <a href="http://www.sigevo.org/gecco-2010/">GECCO</a>, 
+							<a href="http://conferences.computer.org/cec/2010/">CEC</a> and <a href="http://home.agh.edu.pl/~ppsn/">PPSN</a> 
+					</ul>
+				</p>
+
+				<h1 class="title">Routing Protocols</a></h1>
+				<p> A routing protocol is a protocol that specifies how routers communicate with each other, disseminating information that enables them to select 
+					routes from any two nodes on a computer network, the choice of the route being done by routing algorithms. Each router has a priori 
+					knowledge only of networks attached to it directly. A routing protocol shares this information first among immediate neighbours, 
+					and then throughout the network. This way, routers gain knowledge of the topology of the network. Depending on which nodes will receive 
+					the messages from the source node, we have different kinds of routing:	
+					<ul>
+						<li><b>a) </b><a href="http://en.wikipedia.org/wiki/Multicast"><b>Multicast</b></a> addressing is a network technology for the delivery of information to a group of destinations simultaneously using 
+							the most efficient strategy to deliver the messages over each link of the network only once, creating copies only when the 
+							links to the multiple destinations split. In multicast there is a one-to-many association between network addresses and network 
+							endpoints, each destination address identifies a set of receiver endpoints, to which all information is replicated. </li>
+						<li><b>b) </b><a href="http://en.wikipedia.org/wiki/Anycast"><b>Anycast</b></a> is a network addressing and routing scheme whereby data is routed to the topologically "nearest" or "best" node. In anycast, 
+							there is a one-to-one-of-many association between network addresses and network endpoints, each destination address identifies 
+							a set of receiver endpoints, but only one of them is chosen at any given time to receive information from any given sender. </li>
+						<li><b>c) </b><a href="http://en.wikipedia.org/wiki/Unicast"><b>Unicast</b></a> transmission is the sending of messages to a single network destination host on a packet switching network. In unicast, there is a one-to-one association between network address and 
+							network endpoint, each destination address uniquely identifies a single receiver endpoint. </li>
+					</ul>	
+				</p>
+				<p>
+					<img src="images_GA-RP/multicast.png" /> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+					<img src="images_GA-RP/anycast.png" /> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+					<img src="images_GA-RP/unicast.png" />
+				</p>
+				<p> <b>Some references:</b>
+					<ul>
+						<li><a href="http://en.wikipedia.org/wiki/Routing_protocol">Routing protocol, Wikipedia</a> </li>
+						<li><a href="http://www.cis.syr.edu/~wedu/Teaching/cis758/LectureNotes/Routing.pdf">Routing protocols, Fall 2006, Syracuse University</a> </li>
+						<li><a href="http://www.comptechdoc.org/independent/networking/guide/netdynamicroute.html">Dynamic routing protocols</a> </li>
+					</ul>
+				</p>
+
+				<h1 class="title">Application of Genetic Algorithms to Routing Protocols</a></h1>
+				<p> In the table shown <a href="TableGA_RP.htm">here</a>, some genetic algorithms for improving the performance of routing protocols are described. Each GA has been extracted 
+					from a different paper, all of them written in the last two years (2008 and 2009). The table presents just a summary of them, so the interested 
+					reader should consult the papers for a complete understanding of the algorithms. References to the papers are provided, but access to 
+					them is not provided due to copyright reasons. The aim of this work is not to compare all the algorithms presented here between 
+					them. In fact, each of them is compared with other algorithms (which try to solve the same problem) in the section “Simulation Results”. The
+					references using within the <a href="TableGA_RP.htm">table</a> can be seen after it.
+				</p>
+				<p> Papers presented in the table
+					<ul>
+						<li>Link Utilization of GA-based QoS Routing Algorithm, Salman Yussof and Ong Hang See, 2009 
+							<a href="bibtex/Link Utilization of GA-based QoS Routing Algorithm.txt">bibtex</a> </li>
+						<li>Genetic  Algorithm Approach to Dynamic Multi Constraint Multi Path QoS Routing Algortihm for IP networks (GA-DMCMPRA), R. Leela and S. Selvakumar, 2009
+							<a href="bibtex/Genetic algorithm approach to dynamic multi constraint multi path QoS routing algorithm for IP networks (GA-DMCMPRA).txt">bibtex</a> </li>
+						<li>Two-stage Evolutionary Algorithm for Dynamic Multicast Routing in Mesh Network, Li ZHU, Zhi-shu LI, Liang-yin Chen and Yan-hong Cheng, 2008
+							<a href="bibtex/Two-stage Evolutionary Algorithm for Dynamic Multicast Routing in Mesh Network.txt">bibtex</a> </li>
+						<li>Artificial Immune Based Hybrid GA for QoS Based Multicast Routing in Large Scale Networks (AISMR), K. Vijayalakshmi and S. Radhakrishnan, 2008
+							<a href="bibtex/Artificial Immune Based Hybrid GA for QoS Based Multicast Routing in Large Scale Networks (AISMR).txt">bibtex</a> </li>
+						<li>An Improved GA for QoS Multicast Routing Algorithm, Xia Li, Qiu Ning, Zhang Jun-Ya and Liu Yang-Qian, 2008 </li>
+						<li>An Anycast Routing Algorithm Based on Genetic Algorithm, Chun Zhu and Min Jin, 2009
+							<a href="bibtex/An Anycast Routing Algorithm Based on Genetic Algorithm.txt">bibtex</a> </li>
+						<li>A Multi-granularity Evolution Based Quantum Genetic Algorithm for QoS Multicast Routing Problem in WDM Networks, Huanlai Xing, Xin Liu, Xing Jin, Lin Bai and Yuefeng Ji, 2009
+							<a href="bibtex/A Multi-granularity Evolution Based Quantum Genetic Algorithm for QoS Multicast Routing Problem in WDM Networks.txt">bibtex</a> </li>
+						<li>A method for Least-cost QoS Multicast Routing Based on Genetic Simulated Annealing Algorithm, Li Zhang, Lian-bo Cai, Meng Li and Fa-hui Wang, 2009
+							<a href="bibtex/A method for Least-cost QoS Multicast Routing Based on Genetic Simulated Annealing Algorithm.txt">bibtex</a> </li>
+					</ul>
+				</p>
+				<p> Let us explain what is expounded in each column of the table:
+					<ul>
+						<li><b>Abstract.</b> The abstract of the paper is presented.</li>
+						<li><b>Application/Purpose.</b> What is the aim of each algorithm? This column tries to answer this question.</li>
+						<li><b>Evaluation Functions.</b> The operations, functions and methods used by each algorithm are shown in this column. Examples of them are the 
+							fitness function, mutation and crossover operations, initial population of the algorithm, gene encoding, etc. Not the same 
+							things are shown for every algorithm. </li>
+						<li><b>Algorithm(s).</b> How the algorithm works, based on the functions (and more things) presented in the previous column, is presented 
+							here.</li>
+						<li><b>Simulation results.</b> Finally, some comparisons of each algorithm with other algorithms that try to improve the same routing protocol task 
+							are presented in the last column.</li>
+
+					</ul>
+				</p>
+			</div>
+			</div>
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+</div>
+	<!-- end #footer -->
+<map name="Map">
+  <area shape="rect" coords="730,4,954,150" href="http://www.uma.es">
+  <area shape="rect" coords="3,4,224,110" href="http://www.lcc.uma.es">
+</map>
+</body>
+</html>

@@ -1,0 +1,11 @@
+@ARTICLE{TroyaSRC17, 
+author={Troya, Javier and Segura, Sergio and Ruiz-Cort\{\'e}s, Antonio}, 
+journal={The Journal of Systems \& Software}, 
+title={Automated Inference of Likely Metamorphic Relations for Model Transformations}, 
+year={2017}, 
+month={May}, 
+volume={}, 
+number={}, 
+pages={}, 
+doi={10.1016/j.jss.2017.05.043}, 
+ISSN={},}

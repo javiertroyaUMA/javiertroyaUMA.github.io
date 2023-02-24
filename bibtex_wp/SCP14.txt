@@ -1,0 +1,13 @@
+@article{SCP14,
+title = "Evaluation of model transformation approaches for model refactoring ",
+journal = "Science of Computer Programming ",
+volume = "85, Part A",
+number = "0",
+pages = "5 - 40",
+year = "2014",
+note = "Special issue on Experimental Software Engineering in the Cloud(ESEiC) ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2013.07.013",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642313001871",
+author = "S. Kolahdouz-Rahimi and K. Lano and S. Pillay and J. Troya and P. Van Gorp"
+}

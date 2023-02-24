@@ -1,0 +1,11 @@
+@article {FleckTW2016,
+author = {Fleck, Martin and Troya, Javier and Wimmer, Manuel},
+title = {Search-based model transformations},
+journal = {Journal of Software: Evolution and Process},
+issn = {2047-7481},
+url = {http://dx.doi.org/10.1002/smr.1804},
+doi = {10.1002/smr.1804},
+pages = {n/a--n/a},
+keywords = {model transformation, transformation orchestration, model-driven engineering, searchbased, software engineering},
+year = {2016},
+}

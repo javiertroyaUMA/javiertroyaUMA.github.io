@@ -1,0 +1,11 @@
+@inproceedings{1702145,
+ author = {Leela, R. and Selvakumar, S.},
+ title = {Genetic algorithm approach to dynamic multi constraint multi path QoS routing algorithm for IP networks (GA-DMCMPRA)},
+ booktitle = {COMSNETS'09: Proceedings of the First international conference on COMmunication Systems And NETworks},
+ year = {2009},
+ isbn = {978-1-4244-2912-7},
+ pages = {64--69},
+ location = {Bangalore, India},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+ }

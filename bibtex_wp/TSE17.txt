@@ -1,0 +1,11 @@
+@ARTICLE{FleckTKWB17, 
+author={Fleck, Martin and Troya, Javier and Kessentini, Marouane and Wimmer, Manuel and Alkhazi, Bader}, 
+journal={Software Engineering, IEEE Transactions on}, 
+title={Model Transformation Modularization as a Many-Objective Optimization Problem}, 
+year={2017}, 
+month={January}, 
+volume={}, 
+number={}, 
+pages={1-25}, 
+doi={10.1109/TSE.2017.2654255}, 
+ISSN={},}

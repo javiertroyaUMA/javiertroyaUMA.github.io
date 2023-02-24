@@ -1,0 +1,29 @@
+@inproceedings{DBLP:conf/ecmdafa/Moreno-DelgadoDZT14,
+  author    = {Antonio Moreno-Delgado and
+               Francisco Dur{\'a}n and
+               Steffen Zschaler and
+               Javier Troya},
+  title     = {Modular DSLs for Flexible Analysis: An e-Motions Reimplementation
+               of Palladio},
+  booktitle = {ECMFA},
+  year      = {2014},
+  pages     = {132-147},
+  ee        = {http://dx.doi.org/10.1007/978-3-319-09195-2_9},
+  crossref  = {DBLP:conf/ecmdafa/2014},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/ecmdafa/2014,
+  editor    = {Jordi Cabot and
+               Julia Rubin},
+  title     = {Modelling Foundations and Applications - 10th European Conference,
+               ECMFA 2014, Held as Part of STAF 2014, York, UK, July 21-25,
+               2014. Proceedings},
+  booktitle = {ECMFA},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {8569},
+  year      = {2014},
+  isbn      = {978-3-319-09194-5},
+  ee        = {http://dx.doi.org/10.1007/978-3-319-09195-2},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

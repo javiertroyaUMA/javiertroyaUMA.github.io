@@ -1,0 +1,6 @@
+@unpublished{TUW-229960,
+    author = {Troya, Javier and Wimmer, Manuel and Vallecillo, Antonio},
+    title = {Formal Specification and Testing of Model Transformations},
+    year = {2014},
+    note = {Vortrag: 1st International Workshop on Mutation Testing and Model Transformation (MT{\^}2) @ STAF'14, York, UK; 2014-07-22}
+}

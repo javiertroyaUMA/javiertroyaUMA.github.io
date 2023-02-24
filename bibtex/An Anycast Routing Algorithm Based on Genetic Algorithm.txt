@@ -1,0 +1,12 @@
+@article{1534472,
+ author = {Zhu, Chun and Jin, Min},
+ title = {An anycast routing algorithm based on genetic algorithm},
+ journal = {W. Trans. on Comp.},
+ volume = {8},
+ number = {1},
+ year = {2009},
+ issn = {1109-2750},
+ pages = {113--122},
+ publisher = {World Scientific and Engineering Academy and Society (WSEAS)},
+ address = {Stevens Point, Wisconsin, USA},
+ }

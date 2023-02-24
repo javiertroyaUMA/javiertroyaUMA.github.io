@@ -1,0 +1,10 @@
+@inproceedings{TUW-222167,
+    author = {Burgue{\~n}o, Loli and Wimmer, Manuel and Troya, Javier and Vallecillo, Antonio},
+    title = {TractsTool: Testing MTs based on Contracts},
+    booktitle = {Proceedings of Satellite Events of MODELS 2013},
+    year = {2013},
+    pages = {1--5},
+    publisher = {CEUR},
+    url = {http://ceur-ws.org/Vol-1115/poster5.pdf},
+    note = {Posterpr{\"a}sentation: Satellite Events of MODELS 2013, Miami, US; 2013-10-02}
+}

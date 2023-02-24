@@ -1,0 +1,13 @@
+@article{1457118,
+ author = {Vijayalakshmi, K. and Radhakrishnan, S.},
+ title = {Artificial immune based hybrid GA for QoS based multicast routing in large scale networks (AISMR)},
+ journal = {Comput. Commun.},
+ volume = {31},
+ number = {17},
+ year = {2008},
+ issn = {0140-3664},
+ pages = {3984--3994},
+ doi = {http://dx.doi.org/10.1016/j.comcom.2008.08.005},
+ publisher = {Butterworth-Heinemann},
+ address = {Newton, MA, USA},
+ }

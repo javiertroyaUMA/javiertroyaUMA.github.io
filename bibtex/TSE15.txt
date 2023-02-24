@@ -1,0 +1,12 @@
+@ARTICLE{6967841, 
+author={Burgueno, L. and Troya, J. and Wimmer, M. and Vallecillo, A.}, 
+journal={Software Engineering, IEEE Transactions on}, 
+title={Static Fault Localization in Model Transformations}, 
+year={2015}, 
+month={May}, 
+volume={41}, 
+number={5}, 
+pages={490-506}, 
+keywords={Analytical models;Complexity theory;Context;Context modeling;Contracts;Navigation;Testing;Model transformation;model alignment;transformation testing}, 
+doi={10.1109/TSE.2014.2375201}, 
+ISSN={0098-5589},}

@@ -1,0 +1,28 @@
+@inproceedings{DBLP:conf/sle/DuranZT12,
+  author    = {Francisco Dur{\'a}n and
+               Steffen Zschaler and
+               Javier Troya},
+  title     = {On the Reusable Specification of Non-functional Properties
+               in DSLs},
+  booktitle = {SLE},
+  year      = {2012},
+  pages     = {332-351},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-36089-3_19},
+  crossref  = {DBLP:conf/sle/2012},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/sle/2012,
+  editor    = {Krzysztof Czarnecki and
+               G{\"o}rel Hedin},
+  title     = {Software Language Engineering, 5th International Conference,
+               SLE 2012, Dresden, Germany, September 26-28, 2012, Revised
+               Selected Papers},
+  booktitle = {SLE},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7745},
+  year      = {2013},
+  isbn      = {978-3-642-36088-6, 978-3-642-36089-3},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-36089-3},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

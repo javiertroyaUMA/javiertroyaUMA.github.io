@@ -1,0 +1,18 @@
+@inproceedings {MODELSWARD2013,
+  
+month = {feb},
+ 
+title = {{Automated Throughput Optimization of Cloud Services via Model-Driven Adaptation}},
+  
+year = {2013},
+  
+booktitle = {Proc. of the 1st. International Conference on Model-Driven Engineering and Software Development. MODELSWARD 2013. Barcelona, Spain, 19-21 february, 2013},
+  
+publisher = {SciTePress},
+  
+isbn = {978-989-8565-42-6},
+  
+author = {Javier Troya and Javier Cubo and Jos\'{e} Antonio Mart\'{\i}n and Ernesto Pimentel and Antonio Vallecillo},
+
+
+}

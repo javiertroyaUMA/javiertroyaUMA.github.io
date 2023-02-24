@@ -1,0 +1,17 @@
+@Inbook{Fleck2016,
+author="Fleck, Martin
+and Troya, Javier
+and Wimmer, Manuel",
+editor="Van Gorp, Pieter
+and Engels, Gregor",
+title="Search-Based Model Transformations with MOMoT",
+bookTitle="Theory and Practice of Model Transformations: 9th International Conference, ICMT 2016, Held as Part of STAF 2016, Vienna, Austria, July 4-5, 2016, Proceedings",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="79--87",
+isbn="978-3-319-42064-6",
+doi="10.1007/978-3-319-42064-6_6",
+url="http://dx.doi.org/10.1007/978-3-319-42064-6_6"
+}
+

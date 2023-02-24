@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7338256, 
+author={Oakes, B.J. and Troya, J. and Lucio, L. and Wimmer, M.}, 
+booktitle={Model Driven Engineering Languages and Systems (MODELS), 2015 ACM/IEEE 18th International Conference on}, 
+title={Fully verifying transformation contracts for declarative ATL}, 
+year={2015}, 
+pages={256-265}, 
+keywords={contracts;program verification;ATL model transformation verification;Atlas Transformation Language;DSLTrans specification;de-facto standard;declarative ATL subset;model-driven development;postcondition contract;precondition contract;scalability;symbolic-execution property prover;transformation contract verification;transformation language;Computational modeling;Contracts;Impedance matching;Industries;Mathematical model;Model-driven development;Standards;ATL;Contracts;Formal verification;Model transformation;Pre-/Post-conditions;Symbolic execution}, 
+doi={10.1109/MODELS.2015.7338256}, 
+month={Sept},}

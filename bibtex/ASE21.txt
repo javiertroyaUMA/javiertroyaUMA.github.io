@@ -1,0 +1,14 @@
+@Article{2021-derakhshandi-ase-j,
+author="Derakhshandi, Mohammad
+and Kolahdouz-Rahimi, Shekoufeh
+and Troya, Javier
+and Lano, Kevin",
+title="A model-driven framework for developing android-based classic multiplayer 2D board games",
+journal="Automated Software Engineering",
+year="2021",
+volume="28",
+issue="2",
+pages="1--57",
+doi="10.1007/s10515-021-00282-1"
+}
+

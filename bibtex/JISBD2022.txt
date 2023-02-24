@@ -1,0 +1,10 @@
+@InProceedings{munoztv22,
+author="Paula Muñoz and Javier Troya and Antonio Vallecillo",
+title="Análisis de Conformidad de Gemelos Digitales Multi-Fidelidad",
+booktitle="JISBD2022",
+year="2021",
+publisher="SISTEDES",
+address = "Santiago de Compostela, Spain",
+url = "https://www.riuma.uma.es/xmlui/handle/10630/24969"
+}
+

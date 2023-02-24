@@ -1,0 +1,30 @@
+@inproceedings{DBLP:conf/kbse/BergmayrTW14,
+  author    = {Alexander Bergmayr and
+               Javier Troya and
+               Manuel Wimmer},
+  title     = {From out-place transformation evolution to in-place model patching},
+  booktitle = {{ACM/IEEE} International Conference on Automated Software Engineering,
+               {ASE} '14, Vasteras, Sweden - September 15 - 19, 2014},
+  pages     = {647--652},
+  year      = {2014},
+  crossref  = {DBLP:conf/kbse/2014},
+  url       = {http://doi.acm.org/10.1145/2642937.2642946},
+  doi       = {10.1145/2642937.2642946},
+  timestamp = {Wed, 17 Sep 2014 09:31:02 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/kbse/BergmayrTW14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+@proceedings{DBLP:conf/kbse/2014,
+  editor    = {Ivica Crnkovic and
+               Marsha Chechik and
+               Paul Gr{\"{u}}nbacher},
+  title     = {{ACM/IEEE} International Conference on Automated Software Engineering,
+               {ASE} '14, Vasteras, Sweden - September 15 - 19, 2014},
+  publisher = {{ACM}},
+  year      = {2014},
+  url       = {http://dl.acm.org/citation.cfm?id=2642937},
+  isbn      = {978-1-4503-3013-8},
+  timestamp = {Wed, 17 Sep 2014 09:09:48 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/kbse/2014},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}

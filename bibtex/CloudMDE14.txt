@@ -1,0 +1,37 @@
+@inproceedings{DBLP:conf/models/FleckTLW14,
+  author    = {Martin Fleck and
+               Javier Troya and
+               Philip Langer and
+               Manuel Wimmer},
+  title     = {Towards Pattern-Based Optimization of Cloud Applications},
+  booktitle = {Proceedings of the 2nd International Workshop on Model-Driven Engineering
+               on and for the Cloud co-located with the 17th International Conference
+               on Model Driven Engineering Languages and Systems, CloudMDE@MoDELS
+               2014, Valencia, Spain, September 30, 2014.},
+  pages     = {16--25},
+  year      = {2014},
+  crossref  = {DBLP:conf/models/2014cloudmde},
+  url       = {http://ceur-ws.org/Vol-1242/paper6.pdf},
+  timestamp = {Mon, 22 Sep 2014 17:57:28 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/models/FleckTLW14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+@proceedings{DBLP:conf/models/2014cloudmde,
+  editor    = {Richard F. Paige and
+               Jordi Cabot and
+               Marco Brambilla and
+               Louis M. Rose and
+               James H. Hill},
+  title     = {Proceedings of the 2nd International Workshop on Model-Driven Engineering
+               on and for the Cloud co-located with the 17th International Conference
+               on Model Driven Engineering Languages and Systems, CloudMDE@MoDELS
+               2014, Valencia, Spain, September 30, 2014},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {1242},
+  publisher = {CEUR-WS.org},
+  year      = {2014},
+  url       = {http://ceur-ws.org/Vol-1242},
+  timestamp = {Mon, 22 Sep 2014 17:56:28 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/models/2014cloudmde},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}

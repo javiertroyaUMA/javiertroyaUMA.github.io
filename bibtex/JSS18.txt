@@ -1,0 +1,13 @@
+@article{TROYA2018188,
+title = "Automated inference of likely metamorphic relations for model transformations",
+journal = "Journal of Systems and Software",
+volume = "136",
+number = "Supplement C",
+pages = "188 - 208",
+year = "2018",
+issn = "0164-1212",
+doi = "https://doi.org/10.1016/j.jss.2017.05.043",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121217300870",
+author = "Javier Troya and Sergio Segura and Antonio Ruiz-Cortés",
+keywords = "Model-Driven engineering, Metamorphic testing, Metamorphic relations, Model transformations, Automatic inference, Generic approach"
+}

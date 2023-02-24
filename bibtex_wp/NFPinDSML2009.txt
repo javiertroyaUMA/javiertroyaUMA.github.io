@@ -1,0 +1,27 @@
+@inproceedings{DBLP:conf/models/TroyaRV09,
+  author    = {Javier Troya and
+               Jos{\'e} Eduardo Rivera and
+               Antonio Vallecillo},
+  title     = {On the Specification of Non-functional Properties of Systems
+               by Observation},
+  booktitle = {MoDELS Workshops},
+  year      = {2009},
+  pages     = {296-309},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-12261-3_28},
+  crossref  = {DBLP:conf/models/2009w},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@proceedings{DBLP:conf/models/2009w,
+  editor    = {Sudipto Ghosh},
+  title     = {Models in Software Engineering, Workshops and Symposia at
+               MODELS 2009, Denver, CO, USA, October 4-9, 2009, Reports
+               and Revised Selected Papers},
+  booktitle = {MoDELS Workshops},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6002},
+  year      = {2010},
+  isbn      = {978-3-642-12260-6},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-12261-3},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

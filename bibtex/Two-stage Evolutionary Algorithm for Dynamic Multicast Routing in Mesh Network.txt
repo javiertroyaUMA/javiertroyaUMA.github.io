@@ -1,0 +1,13 @@
+Journal Title  - Journal of Zhejiang University - Science A
+Article Title  - Two-stage evolutionary algorithm for dynamic multicast routing in mesh network
+Author  - Li Zhu
+Author  - Zhi-shu Li
+Author  - Liang-yin Chen
+Author  - Yan-hong Cheng
+Volume  - Volume 9
+Issue  - 6
+First Page  - 791
+Last Page  - 798
+Issue Cover Date  - 2008-06-01
+DOI  - 10.1631/jzus.A071519
+Link  - http://www.springerlink.com/content/0V2G1128712647J5
