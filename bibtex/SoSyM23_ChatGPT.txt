@@ -1,0 +1,15 @@
+@Article{CamaraTBV23,
+author={C{\'a}mara, Javier
+and Troya, Javier
+and Burgue\{~n}o, Lola
+and Vallecillo, Antonio
+},
+title={On the assessment of generative AI in modeling tasks: an experience report with ChatGPT and UML},
+journal={Software and Systems Modeling},
+year={2023},
+month={May},
+day={22},
+doi={10.1007/s10270-023-01105-5},
+url={https://doi.org/10.1007/s10270-023-01105-5}
+}
+
