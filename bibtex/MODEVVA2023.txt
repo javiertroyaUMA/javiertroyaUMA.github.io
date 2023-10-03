@@ -1,0 +1,7 @@
+@inproceedings{DelgadoBCT23,
+author = {Delgado, David and Burgueño, Lola and Cámara, Javier and Troya, Javier},
+title = {Towards an Extensible Architecture and Tool Support for Model-based Verification},
+year = {2023},
+booktitle = {Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings},
+series = {MODELS '23}
+}
