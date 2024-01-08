@@ -1,0 +1,13 @@
+@article{KARIMI2024111882,
+title = {Ant-colony optimization for automating test model generation in model transformation testing},
+journal = {Journal of Systems and Software},
+volume = {208},
+pages = {111882},
+year = {2024},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2023.111882},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121223002777},
+author = {Meysam Karimi and Shekoufeh Kolahdouz-Rahimi and Javier Troya},
+keywords = {Model-Driven Engineering, Model transformation testing, Automated model generation, Ant colony optimization},
+abstract = {In model transformation (MT) testing, test data generation is of key importance. However, test suites are not available out of the box, and existing approaches to generate them require to provide not only the metamodel to which the models must conform, but some other domain-specific artifacts. For instance, an MT developer aiming to perform an incremental implementation of an MT may need to count on a quality test suite from the very beginning, even before all MT requirements are clear, only having the metamodels as input. We propose a black-box approach for the generation of test models where only the input metamodel of the MT is available. We propose an Ant-Colony Optimization algorithm for the search of test models satisfying the objectives of maximizing internal diversity and maximizing external diversity. We provide a tool prototype that implements this approach and generates the models in the well-established XMI interchange format. A comparison study with state-of-the-art frameworks shows that models are generated in reasonable times with low memory consumption. We empirically demonstrate the adequacy of our approach to generate effective test models, obtaining an overall mutation score above 80% from an evaluation with more than 5000 MT mutants.}
+}
