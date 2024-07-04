@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3643915.3644081,
+author = {Vilchez, Enrique and Troya, Javier and Camara, Javier},
+title = {Towards Proactive Decentralized Adaptation of Unmanned Aerial Vehicles for Wildfire Tracking},
+year = {2024},
+isbn = {9798400705854},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3643915.3644081},
+doi = {10.1145/3643915.3644081},
+abstract = {Smart Cyber-Physical Systems (sCPS) operate in dynamic and uncertain environments, where anticipation to adverse situations is crucial and decentralization is often necessary due to e.g., scalability issues. Addressing the limitations related to the lack of foresight of (decentralized) reactive self-adaptation (e.g., slower response, sub-optimal resource usage), this paper introduces a novel method that employs Predictive Coordinate Descent (PCD) to enable decentralized proactive self-adaptation in sCPS. Our study compares PCD with a reactive Deep Q-Network (DQN) strategy on Unmanned Aerial Vehicles (UAV) in wildfire tracking adaptation scenarios. Results show how PCD outperforms DQN when furnished with high-quality predictions of the environment, but progressively degrades in effectiveness with predictions of decreasing quality.},
+booktitle = {Proceedings of the 19th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+pages = {56–62},
+numpages = {7},
+keywords = {UAV, proactive adaptation, predictive coordinate descent},
+location = {Lisbon, AA, Portugal},
+series = {SEAMS '24}
+}

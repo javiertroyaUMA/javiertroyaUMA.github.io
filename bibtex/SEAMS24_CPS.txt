@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3643915.3644083,
+author = {Sanchez, Raquel and Troya, Javier and Camara, Javier},
+title = {Automated Planning for Adaptive Cyber-Physical Systems under Uncertainty in Temporal Availability Constraints},
+year = {2024},
+isbn = {9798400705854},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3643915.3644083},
+doi = {10.1145/3643915.3644083},
+abstract = {In smart Cyber-Physical Systems (sCPS), a critical challenge lies in task planning under uncertainty. There is a broad body of work in the area with approaches able to deal with different classes of constraints (e.g., ordering, structural) and uncertainties (e.g., in sensing, actuation, latencies). However, planning under temporal availability constraints, i.e., when a given resource or other element of the system required to perform a task is available only during a limited and variable time window, is a challenge that remains largely unexplored. This paper presents an approach to address this challenge, employing genetic algorithms to incorporate temporal uncertainties effectively. Our method demonstrates enhanced robustness and efficiency in task-based sCPS scenarios with variable time windows, such as electric vehicle charging and healthcare robotics. Our evaluation shows that our approach significantly reduces computational cost and maintains solution feasibility under prescribed levels of uncertainty, outperforming MILP-based optimization.},
+booktitle = {Proceedings of the 19th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+pages = {14–24},
+numpages = {11},
+keywords = {planning, adaptation, uncertainty, availability constraints, CPS},
+location = {Lisbon, AA, Portugal},
+series = {SEAMS '24}
+}
