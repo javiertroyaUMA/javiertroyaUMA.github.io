@@ -1,0 +1,22 @@
+@InProceedings{10.1007/978-3-031-66326-0_17,
+author="Laso, Sergio
+and Toro-G{\'a}lvez, Lorenzo
+and Berrocal, Javier
+and Troya, Javier
+and Canal, Carlos
+and Manuel Murillo, Juan",
+editor="Tekinerdo{\u{g}}an, Bedir
+and Spalazzese, Romina
+and S{\"o}zer, Hasan
+and Bonfanti, Silvia
+and Weyns, Danny",
+title="Towards an Urban Digital Twins Continuum Architecture",
+booktitle="Software Architecture. ECSA 2023 Tracks, Workshops, and Doctoral Symposium",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="272--286",
+abstract="In the era of smart cities, where the integration of Internet of Things devices and the need to efficiently manage urban environments have generated considerable interest, the Digital Twin concept emerges as a key solution. This technology allows us to study and simulate the behavior of complex urban dynamics. However, conventional Digital Twin architectures face significant challenges, such as limited scalability, inherent latency, and data privacy concerns stemming mainly from their centralized nature. In response to these challenges, this paper proposes an innovative distributed architecture for the so-called Urban Digital Twins, implemented on top of the Computing continuum. The main objective is to establish a more efficient and scalable framework, specifically designed for the demands of smart cities. To support the feasibility of this proposal, two case studies are presented: one focused on urban public transportation systems, and the other focused on a pollution monitoring system. These case studies illustrate how a distributed architecture can effectively address existing challenges, providing a solid foundation for the smart and sustainable management of urban environments.",
+isbn="978-3-031-66326-0"
+}
+
