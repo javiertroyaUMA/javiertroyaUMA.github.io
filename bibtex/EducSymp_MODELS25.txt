@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11273239,
+  author={Chakraborty, Shalini and Burgueño, Lola and Moreno, Nathalie and Troya, Javier and Muñoz, Paula},
+  booktitle={2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)}, 
+  title={Mind the Ethics! The Overlooked Ethical Dimensions of GenAI in Software Modeling Education}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={19-26},
+  keywords={Ethics;Generative AI;Education;Unified modeling language;Software;Reflection;Libraries;Programming profession;Context modeling;Software engineering;GenAI;Large Language Model;Software Modeling;UML;Education;Ethics;Responsibility;Diversity;Bias},
+  doi={10.1109/MODELS-C68889.2025.00008}}

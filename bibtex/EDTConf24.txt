@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3652620.3688267,
+author = {Mu\~{n}oz, Paula and Troya, Javier and Vallecillo, Antonio},
+title = {Towards Measuring Digital Twins Fidelity at Runtime},
+year = {2024},
+isbn = {9798400706226},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3652620.3688267},
+doi = {10.1145/3652620.3688267},
+abstract = {This paper introduces a novel approach for runtime validation and anomaly detection in Digital Twins. We enhance the trace alignment capabilities of the Needleman-Wunsch dynamic programming algorithm to enable continuous system state monitoring. Our method overcomes the limitations of previous works by eliminating the need for time series preprocessing or predefined behavioral constraints. By aligning traces and utilizing sliding windows, we periodically analyze the most recent snapshots to detect anomalies, delays, and deviations between the twins at runtime. This technique improves anomaly detection accuracy and system diagnostics by leveraging the behavioral duplication inherent in Digital Twins. We validated our prototype with elevator behavioral traces, demonstrating its effectiveness in measuring behavioral fidelity and monitoring system safety.},
+booktitle = {Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems},
+pages = {507–512},
+numpages = {6},
+keywords = {digital twins, runtime monitoring, anomaly detection, validation},
+location = {Linz, Austria},
+series = {MODELS Companion '24}
+}
